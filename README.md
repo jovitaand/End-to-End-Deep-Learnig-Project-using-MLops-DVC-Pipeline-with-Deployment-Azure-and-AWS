@@ -1,8 +1,6 @@
 # End-to-End-Deep-Learnig-Project-using-MLops-DVC-Pipeline-with-Deployment-Azure-and-AWS
 End to End Chicken Disease Classification Project
 
-# Project Title
-
 #  Table of Contents
 - [Introduction](#introduction)
 - [Github Repository Setup](#github-repository-setup)
