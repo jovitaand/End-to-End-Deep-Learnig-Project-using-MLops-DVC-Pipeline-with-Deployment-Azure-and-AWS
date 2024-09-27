@@ -16,7 +16,7 @@ End to End Chicken Disease Classification Project
 - [Docker](#docker)
 - [Final CI/CD Deployment on AWS and Azure](#final-cicd-deployment-on-aws-and-azure)
 
-Prerequisite:
+## Prerequisite:
 * Python Programming (OOPs Concept Required)
 * Deep Learning - Object Classification Basic & Tensorflow 2.x API
 * AWS & Azure Account
